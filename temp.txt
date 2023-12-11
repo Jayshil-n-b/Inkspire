@@ -1,0 +1,14 @@
+# if __name__ == '__main__':
+#     classification_model = Classification_model()
+#     article_scrapper = Scrapper()
+#     url_list = ["https://www.bbc.com/news/world-us-canada-67673620",
+#                 "https://www.bbc.com/news/world-asia-67583282",
+#                 "https://www.bbc.com/news/world-europe-67641500",
+#                 "https://www.bbc.com/news/science-environment-65754296",
+#                 "https://www.bbc.com/news/uk-england-london-62995442"]
+    
+#     for url in url_list:
+#         article = article_scrapper.scrape_article(url)
+#         # print(article)
+#         classification_model.predict_tags(article)
+#         print("\n\n\tNext article\n\n")

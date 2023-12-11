@@ -1,2 +1,4 @@
 model_weights_2.h5
 pre_trained_model_1.h5
+*.csv
+*.npy
